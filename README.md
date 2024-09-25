@@ -1,5 +1,11 @@
 # Delete BG
 
+## Demo video of the project
+
+![Screenshot (707)](https://github.com/user-attachments/assets/5a23bcae-a688-4263-b2b8-0fd45da74b63)
+
+https://www.youtube.com/watch?v=JtWxpGCVFrU
+
 ## Introduction
 
 Welcome to **Delete BG**! This is a website designed to make removing image backgrounds quick and easy. With just a few clicks, you can upload an image, remove its background, and download the result—all within a fully mobile-responsive interface. Whether you're working on a desktop or mobile device, the experience is smooth and user-friendly.
