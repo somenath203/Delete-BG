@@ -18,3 +18,11 @@ Welcome to **Delete BG**! This is a website designed to make removing image back
 - **ShadCN UI**: A component library for adding accessible and customizable UI elements.
 - **Aceternity UI**: Used for additional user interface components to improve the design.
 - **Remove-BG API**: A background removal API that handles the image processing to deliver high-quality results.
+
+## Deployment Link of the Application
+
+https://delete-bg-som.vercel.app/
+
+## Disclaimer
+
+Please note that **Delete BG** uses the **Remove-BG API**, which has a limit of 50 free API calls per month. If you upload an image and encounter an error or do not receive the background-removed image, it may be because the monthly API usage limit has been reached. We apologize for any inconvenience caused and appreciate your understanding.
