@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "DeleteImage BG",
+  title: "Delete BG",
   description: "an app to remove background from image",
 };
 
