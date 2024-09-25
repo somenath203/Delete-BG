@@ -31,4 +31,4 @@ https://delete-bg-som.vercel.app/
 
 ## Disclaimer
 
-Please note that **Delete BG** uses the **Remove-BG API**, which has a limit of 50 free API calls per month. If you upload an image and encounter an error or do not receive the background-removed image, it may be because the monthly API usage limit has been reached. We apologize for any inconvenience caused and appreciate your understanding.
+Please note that this application utilizes the **Remove-BG API** to remove image backgrounds, with a limit of 50 free API calls per month. If you encounter an error or do not receive the background-removed image after uploading, it may be due to the monthly API limit being reached.
